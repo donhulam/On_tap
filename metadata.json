@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý ôn tập – Tóm tắt ghi chép học tập - Ver 1",
+  "description": "Ứng dụng web cho phép học sinh/giáo viên nhập dữ liệu học tập và nhận bản tóm tắt ôn tập có cấu trúc rõ ràng, hỗ trợ ghi nhớ và chuẩn bị cho các kỳ kiểm tra.",
+  "requestFramePermissions": []
+}
