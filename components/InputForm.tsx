@@ -38,7 +38,7 @@ const InputForm: React.FC<InputFormProps> = ({
   return (
     <div className="bg-white p-6 rounded-xl shadow-lg border border-gray-200 sticky top-24">
       <h2 className="text-xl font-bold text-gray-800 mb-4 border-b pb-3">Thông tin ôn tập</h2>
-      <form onSubmit={(e) => { e.preventDefault(); onSubmit(); }} className="space-y-5">
+      <form onSubmit={(e) => { e.preventDefault(); onSubmit(); }} className="space-y-4">
         <div>
           <label htmlFor="subject" className="block text-sm font-medium text-gray-700 mb-1">Môn học</label>
           <input
